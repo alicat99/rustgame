@@ -1,3 +1,3 @@
 rust game
 
-www.google.com
+www.github.io
